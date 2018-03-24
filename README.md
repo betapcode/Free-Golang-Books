@@ -14,6 +14,7 @@ You can find all the books listed below in [**book**](/book) folder of this repo
 * Go Design Patterns [[Download]](/book/Go%20Design%20Patterns.pdf)
 * Go in Action [[Download]](/book/Go%20in%20Action.pdf)
 * Go in Practice [[Download]](/book/Go%20in%20Practice.pdf)
+* Go Programming Blueprints - Second Edition [[Download]](/book/Go%20Programming%20Blueprints%20-%20Second%20Edition.pdf)
 * Go Systems Programming [[Download]](/book/Go%20Systems%20Programming.pdf)
 * Go Web Programming [[Download]](/book/Go%20Web%20Programming.pdf)
 * Isomorphic Go [[Download]](/book/Isomorphic%20Go.pdf)
