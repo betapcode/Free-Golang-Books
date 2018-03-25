@@ -10,6 +10,7 @@ If you want to contribute to this list, send a pull request. All contributors wi
 
 You can find all the books listed below in [**book**](/book) folder of this repo:
 
+* Building Microservices with Go [[Download]](/book/Building%20Microservices%20with%20Go.epub)
 * Go - Building Web Applications [[Download]](/book/Go%20-%20Building%20Web%20Applications.pdf)
 * Go Design Patterns [[Download]](/book/Go%20Design%20Patterns.pdf)
 * Go in Action [[Download]](/book/Go%20in%20Action.pdf)
@@ -20,5 +21,6 @@ You can find all the books listed below in [**book**](/book) folder of this repo
 * Isomorphic Go [[Download]](/book/Isomorphic%20Go.pdf)
 * Learning Go programming [[Download]](/book/Learning%20Go%20programming.pdf)
 * Mastering Concurrency in Go [[Download]](/book/Mastering%20Concurrency%20in%20Go.pdf)
+* The Go Programming Language [[Download]](/book/The%20Go%20Programming%20Language.pdf)
 * Webapps in Go Anti-Textbook [[Download]](/book/Webapps%20in%20Go%20Anti-Textbook.pdf)
 
