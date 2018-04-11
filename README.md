@@ -22,6 +22,7 @@ You can find all the books listed below in [**book**](/book) folder of this repo
 * Introducing Go - Build Reliable, Scalable Programs [[Download]](/book/Introducing%20Go%20-%20Build%20Reliable%2C%20Scalable%20Programs.pdf)
 * Isomorphic Go [[Download]](/book/Isomorphic%20Go.pdf)
 * Learning Go programming [[Download]](/book/Learning%20Go%20programming.pdf)
+* Learning Go Web Development [[Download]](/book/Learning%20Go%20Web%20Development.pdf)
 * Mastering Concurrency in Go [[Download]](/book/Mastering%20Concurrency%20in%20Go.pdf)
 * The Go Programming Language [[Download]](/book/The%20Go%20Programming%20Language.pdf)
 * Webapps in Go Anti-Textbook [[Download]](/book/Webapps%20in%20Go%20Anti-Textbook.pdf)
