@@ -26,4 +26,6 @@ You can find all the books listed below in [**book**](/book) folder of this repo
 * Mastering Concurrency in Go [[Download]](/book/Mastering%20Concurrency%20in%20Go.pdf)
 * The Go Programming Language [[Download]](/book/The%20Go%20Programming%20Language.pdf)
 * Webapps in Go Anti-Textbook [[Download]](/book/Webapps%20in%20Go%20Anti-Textbook.pdf)
+* Cloud Native Go Building Web Applications and Microservices for the Cloud with Go and React [Download](/book/Nemeth D., Hoffman K. - Cloud Native Go Building Web Applications and Microservices for the Cloud with Go and React - 2016.PDF)
+
 
